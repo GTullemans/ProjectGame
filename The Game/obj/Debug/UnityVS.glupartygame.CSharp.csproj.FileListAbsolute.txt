@@ -1,0 +1,11 @@
+E:\GLU\2e Project\glupartygame\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\GLU\2e Project\glupartygame\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\GLU\2e Project\glupartygame\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\GLU\2e Project\glupartygame\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\GLU\2e Project\glupartygame\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\GLU\2e Project\glupartygame\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\GLU\2e Project\glupartygame\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\GLU\2e Project\glupartygame\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\GLU\2e Project\glupartygame\obj\Debug\UnityVS.glupartygame.CSharp.csprojResolveAssemblyReference.cache
+E:\GLU\2e Project\glupartygame\obj\Debug\Assembly-CSharp.dll
+E:\GLU\2e Project\glupartygame\obj\Debug\Assembly-CSharp.pdb
